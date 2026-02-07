@@ -6,7 +6,7 @@ description: Retrouvez ici le sommaire du Wiki de MinePiece
 
 Bienvenue sur le <mark style="color:yellow;">**wiki officiel du serveur MinePiece**</mark> ! Celui-ci vous sera utile tout au long de votre progression, et vous permettra une aventure sans accroc.
 
-Vous y retrouverez <mark style="color:yellow;">**toutes les fonctionnalités du serveur**</mark>, ainsi que <mark style="color:yellow;">**les informations utiles**</mark> liées à Mineberry.
+Vous y retrouverez <mark style="color:yellow;">**toutes les fonctionnalités du serveur**</mark>, ainsi que <mark style="color:yellow;">**les informations utiles**</mark> liées à MinePiece.
 
 ## [<mark style="color:orange;">Informations Générales</mark>](broken-reference)
 
