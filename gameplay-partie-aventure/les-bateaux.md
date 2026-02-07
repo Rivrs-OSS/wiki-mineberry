@@ -63,17 +63,22 @@ Chaque composant peut être amélioré pour augmenter ses performances :
 
 Vous pourrez donner un <mark style="color:yellow;">**style unique**</mark> à votre bateau en lui appliquant un skin inspiré de l’univers One Piece. Certains skins sont gratuits, d'autres sont achetables avec des <mark style="color:green;">**gemmes**</mark>.
 
-| Skin                                                 | Rareté     | Prix (Gemmes)                  | Amélioration possible |
-| ---------------------------------------------------- | ---------- | ------------------------------ | --------------------- |
-| <mark style="color:green;">**Baril**</mark>          | Commun     | Récompense de la quête Tuto    | ❌                     |
-| <mark style="color:green;">**Barque**</mark>         | Commun     | Disponible Niv. 35 Job Pêcheur | ✅                     |
-| <mark style="color:blue;">**Baratie**</mark>         | Rare       | Caisse Corsaire                | ✅                     |
-| <mark style="color:purple;">**Sad Tanker**</mark>    | Épique     | Caisse Corsaire                | ✅                     |
-| <mark style="color:purple;">**Vogue Merry**</mark>   | Épique     | Caisse Corsaire                | ✅                     |
-| <mark style="color:purple;">**Noah**</mark>          | Épique     | Caisse Corsaire                | ✅                     |
-| <mark style="color:yellow;">**Perfume Yuda**</mark>  | Légendaire | Caisse Corsaire                | ✅                     |
-| <mark style="color:yellow;">**Thriller Bark**</mark> | Légendaire | Caisse Corsaire                | ✅                     |
-| <mark style="color:red;">**Thousand Sunny**</mark>   | Mythique   | Caisse Corsaire                | ✅                     |
+| Skin                                                   | Rareté     | Prix (Gemmes)                  | Amélioration possible |  Places 
+| ------------------------------------------------------ | ---------- | ------------------------------ | --------------------- | --------------------- |
+| <mark style="color:green;">**Baril de Luffy**</mark>   | Commun     | Récompense de la quête Tuto    | ❌                    | 1
+| <mark style="color:green;">**Barque**</mark>           | Commun     | Disponible Niv. 35 Job Pêcheur | ✅                    | 2
+| <mark style="color:blue;">**Baratie**</mark>           | Rare       | Caisse Corsaire                | ✅                    | 4
+| <mark style="color:purple;">**Vogue Merry**</mark>     | Épique     | Caisse Corsaire                | ✅                    | 4
+| <mark style="color:purple;">**Noah**</mark>            | Épique     | Caisse Corsaire                | ✅                    | 4
+| <mark style="color:purple;">**Sad Tanker**</mark>      | Épique     | Caisse Corsaire                | ✅                    | 4
+| <mark style="color:yellow;">**Navire-Cercueil**</mark> | Légendaire | Caisse Corsaire                | ✅                    | 4
+| <mark style="color:yellow;">**Perfume Yuda**</mark>    | Légendaire | Caisse Corsaire                | ✅                    | 4
+| <mark style="color:yellow;">**Numancia**</mark>        | Légendaire | Caisse Corsaire                | ✅                    | 4
+| <mark style="color:yellow;">**Arch Maxime**</mark>     | Légendaire | Caisse Corsaire                | ✅                    | 4
+| <mark style="color:yellow;">**Thriller Bark**</mark>   | Légendaire | Caisse Corsaire                | ✅                    | 4
+| <mark style="color:yellow;">**Bilking**</mark>         | Noël       | Caisse Corsaire                | ✅                    | 4
+| <mark style="color:red;">**Queen Mama Chanter**</mark> | Mythique   | Caisse Corsaire                | ✅                    | 5
+| <mark style="color:red;">**Thousand Sunny**</mark>     | Mythique   | Caisse Corsaire                | ✅                    | 5
 
 {% hint style="success" %}
 Tous les bateaux avec GUI amélioration disposent d’un menu personnalisé pour leurs upgrades.
