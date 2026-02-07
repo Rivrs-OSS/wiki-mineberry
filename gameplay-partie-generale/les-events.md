@@ -41,7 +41,7 @@ Une fois débloqué, le Double Jump peut être activé ou désactivé à tout mo
 
 ## <mark style="color:orange;">Course Waver</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`/race`</mark>
 
-La <mark style="color:yellow;">**Course Waver**</mark> est un événement disponible <mark style="color:yellow;">**tous les mardis et jeudis à 21h**</mark>.\
+La <mark style="color:yellow;">**Course Waver**</mark> est un événement disponible <mark style="color:yellow;">**tous les jours à 20h30 et 3h30**</mark>.\
 Pour y participer, utilisez la commande **`/race`**.
 
 ### <mark style="color:orange;">Objectif</mark>
