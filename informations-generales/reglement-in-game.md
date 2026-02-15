@@ -58,6 +58,10 @@ Cela inclut notamment, sans s’y limiter :
 * l’utilisation des infrastructures d’une autre île afin d’optimiser sa propre production ;
 * toute organisation permettant d’éviter la construction normale de farms sur son île.
 
+Il est autorisé d'afk sur une ile en contrepartie d'argent;
+
+La location de farms d'une ile est interdite.
+
 ***
 
 #### <mark style="color:$warning;">**Farm et utilisation d’îles tierces**</mark>
@@ -260,6 +264,7 @@ Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à u
 ### <mark style="color:orange;">Article J : Triche et Usebugs</mark>
 
 * Les usebugs, la duplication (ainsi que la tentative de duplication) et la triche sous toutes ses formes sont prohibés sur le serveur.
+  * Est compris dans usebugs le fait d'abuser de choses dans le but d'augmenter ses stats, contourner les limites quelconques etc...
 * Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
 * **De plus, l'utilisation d'une touche autre que le clic, d'un moyen, d’une méthode ou d’un poids permettant de le bloquer pour casser et/ou poser des blocs, et utiliser des items, est totalement interdite.**
 * Etre en connaissance d’un bug majeur sur le serveur et ne pas en informer la modération dans le but d’abuser de celui-ci entrainera un bannissement définitif du serveur.
