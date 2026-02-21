@@ -166,7 +166,7 @@ Cette liste n'est pas exhaustive.
 
 ### <mark style="color:orange;">Article D : Utilisation de la Redstone</mark>
 
-* Les clocks redstone sans intervalle de tick, qui laissent apparaître cet intervalle visuellement, sont interdites.
+* Les clocks redstone sans intervalle de tick ou volantes qui laissent apparaître cet intervalle visuellement, sont interdites.
 * Les systèmes redstone amenant à du 0-tick, en tout genre, sont interdits.
 * Les machines créant du lag, volontairement ou non, sont interdites.
 * Il est interdit de farmer à l’aide d’un véhicule ou dans un véhicule (wagons, bateaux, etc.).
