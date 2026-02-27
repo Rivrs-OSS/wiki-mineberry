@@ -293,6 +293,7 @@ Voici une liste non exhaustive des messages inappropriés sur le serveur :
 * Le spoil est prohibé
 * L’incitation au spam/flood est également prohibée sur le serveur (cela inclut des évènements de types questions/réponses dans le chat. Les réponses doivent donc être effectuées dans les messages privés de l’organisateur)
 * Les menaces, le harcèlement, l’humour noir ainsi que la divulgation d'informations privées sont interdits sur le serveur.
+* La diffamation
 
 ### <mark style="color:orange;">Article C : Les différentes plateformes</mark>
 
