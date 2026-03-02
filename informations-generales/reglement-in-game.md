@@ -47,54 +47,11 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 Pensez à régulièrement prendre en vidéo/photo votre inventaire/île/argent.
 {% endhint %}
 
-### <mark style="color:orange;">Article D : Les Alliances d'îles</mark>
+### <mark style="color:orange;">Article D : La boutique</mark>
 
-Toute forme d’alliance entre îles est strictement interdite dès lors qu’elle a pour objectif ou pour effet d’obtenir un avantage dans le classement des îles.
-
-Cela inclut notamment, sans s’y limiter :
-
-* le partage régulier ou organisé de farms ;
-* le partage d’items de niveau du mois, d’argent ou de ressources en grande quantité ;
-* l’utilisation des infrastructures d’une autre île afin d’optimiser sa propre production ;
-* toute organisation permettant d’éviter la construction normale de farms sur son île.
-
-Il est autorisé d'afk sur une ile en contrepartie d'argent;
-
-La location de farms d'une ile est interdite.
-
-***
-
-#### <mark style="color:$warning;">**Farm et utilisation d’îles tierces**</mark>
-
-Chaque île est tenue de farmer exclusivement sur sa propre île. Le farm régulier ou organisé sur l’île d’un autre joueur est strictement interdit, qu’il s’agisse ou non d’une alliance déclarée.
-
-Une tolérance peut être accordée à **1 à 2 joueurs maximum**, de manière **ponctuelle**, sous la responsabilité du chef d’île, à condition que cela ne remplace pas la construction normale de farms sur l’île concernée.
-
-Tout usage abusif, massif ou permettant d’obtenir un avantage économique ou technique sera considéré comme un contournement du règlement et entraînera des sanctions.
-
-***
-
-#### <mark style="color:$warning;">**Contournement des limites**</mark>
-
-Il est strictement interdit d’utiliser une île tierce, y compris via l’usage de double comptes, dans le but de contourner les limites de sa propre île (nombre de hoppers, de joueurs, de shops, de farms, etc.).
-
-* **Cas particulier : seconde île via double compte :**&#x20;
-
-Il est autorisé de créer une seconde île sur un double compte **uniquement** dans le but de créer un **/is warp** (builds, shops, décorations, événements, etc.).
-
-Sont strictement interdits sur cette seconde île :
-
-* tout type de stockage ;
-* toute farm ou machine de production ;
-* toute utilisation permettant d’avantager directement ou indirectement l’île principale.
-
-En cas de non-respect, la modération se réserve le droit de supprimer intégralement la seconde île, sans compensation.
-
-***
-
-#### <mark style="color:$warning;">**Sanctions**</mark>
-
-Tout abus, contournement ou comportement allant à l’encontre de l’esprit de ces règles pourra entraîner une sanction adaptée à la gravité de la situation, même si celui-ci n’est pas explicitement listé ci-dessus.
+* Tous les achats effectués sur la boutique sont considérés comme définitifs et ne peuvent donner lieu à aucun remboursement, sauf exception prévue expressément dans nos Conditions Générales de Vente (CGV)
+* Conformément à l’article L221-28 du Code de la Consommation, vous reconnaissez et acceptez de renoncer à votre droit de rétractation dès la validation de votre commande, la prestation de service étant exécutée immédiatement.
+* Tout litige, contestation de paiement ou rétrofacturation (“chargeback”) entraînera automatiquement un bannissement définitif du ou des comptes concernés, sans possibilité de recours.
 
 
 
@@ -116,6 +73,10 @@ Tout abus, contournement ou comportement allant à l’encontre de l’esprit de
 #### **Action sur une île :**&#x20;
 
 En cas de départ volontaire d’une île, il est obligatoire de prévenir le chef de celle-ci afin d’organiser la répartition des ressources si nécessaire. Assurez-vous également de placer vos objets personnels et de valeur dans des coffres sécurisés et privatifs.
+
+{% hint style="warning" %}
+En cas de départ d'un chef d'île pendant plus de 60 jours, les autres membres peuvent faire un ticket afin de récupérer le lead de l'île.
+{% endhint %}
 
 Si un joueur est banni de son île par le chef, ce dernier a l’obligation de lui restituer ses effets personnels immédiatement après le bannissement.
 
@@ -139,19 +100,69 @@ Voici une liste non exhaustive des actions interdites sur le serveur :
 * La construction obscène, raciste et discriminante.
 * Il est interdit de créer des jeux de hasard/casino.
 * Tout commerce de prime/points de classement est formellement interdit. Cela inclut l’utilisation abusive d’un compte tiers permettant d’augmenter sa prime/ses points de classement.
-* La vente de cosmétiques, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, d’items sans durabilité, de shulkers contenant des items interdits à la vente, ou encore de contrats expirés est interdite.
+* La vente d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, d’items sans durabilité, de shulkers contenant des items interdits à la vente, ou encore de contrats expirés est interdite.
 * Il est interdit de mettre en vente des têtes du /hdb accessible via le /premium
 * Il est interdit d'utiliser son fruit du démon sur d'autres joueurs en zone aventure ou dans les warps publiques
 * Les farms à wither sont interdites.
-* Le poser/casser est interdit.
+* Le poser/casser est interdit; exception : blocs de neige et amélioration de la pelle évolutive.
+* Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’exploiter un bug pour augmenter votre métier et pass.
 
 {% hint style="warning" %}
 Cette liste n'est pas exhaustive.
 {% endhint %}
 
-* Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’exploiter un bug pour augmenter votre métier et pass.
+### <mark style="color:orange;">Article C : Les Alliances d'îles</mark>
 
-### <mark style="color:orange;">Article C : Le pvp, les duels et MarineFord</mark>
+Toute forme d’alliance entre îles est strictement interdite dès lors qu’elle a pour objectif ou pour effet d’obtenir un avantage dans le classement des îles.
+
+Cela inclut notamment, sans s’y limiter :
+
+* le partage régulier ou organisé de farms ;
+* le partage de berrys, d’argent ou de ressources en grande quantité ;
+* l’utilisation des infrastructures d’une autre île afin d’optimiser sa propre production ;
+* toute organisation permettant d’éviter la construction normale de farms sur son île.
+
+***
+
+#### <mark style="color:$warning;">**Farm et utilisation d’îles tierces**</mark>
+
+Chaque île est tenue de farmer exclusivement sur sa propre île. Le farm régulier ou organisé sur l’île d’un autre joueur est strictement interdit, qu’il s’agisse ou non d’une alliance déclarée.
+
+Une tolérance peut être accordée à **1 à 2 joueurs maximum**, de manière **ponctuelle**, sous la responsabilité du chef d’île, à condition que cela ne remplace pas la construction normale de farms sur l’île concernée.
+
+Tout usage abusif, massif ou permettant d’obtenir un avantage économique ou technique sera considéré comme un contournement du règlement et entraînera des sanctions.
+
+
+
+* Il est cependant autorisé d'afk sur une ile en contrepartie d'argent.
+
+***
+
+#### <mark style="color:$warning;">**Contournement des limites**</mark>
+
+Il est strictement interdit d’utiliser une île tierce, y compris via l’usage de double comptes, dans le but de contourner les limites de sa propre île (nombre de hoppers, de joueurs, de farms, etc.).
+
+* **Cas particulier : seconde île via double compte :**&#x20;
+
+Il est autorisé de créer une seconde île sur un double compte **uniquement** dans le but de créer un **/is warp** (builds, shops, décorations, événements, etc.).
+
+Sont strictement interdits sur cette seconde île :
+
+* tout type de stockage ;
+* toute farm ou machine de production ;
+* toute utilisation permettant d’avantager directement ou indirectement l’île principale.
+
+En cas de non-respect, la modération se réserve le droit de supprimer intégralement la seconde île, sans compensation.
+
+***
+
+#### <mark style="color:$warning;">**Sanctions**</mark>
+
+Tout abus, contournement ou comportement allant à l’encontre de l’esprit de ces règles pourra entraîner une sanction adaptée à la gravité de la situation, même si celui-ci n’est pas explicitement listé ci-dessus.
+
+
+
+### <mark style="color:orange;">Article D : Le pvp, les duels et MarineFord</mark>
 
 * Interdiction de faire équipe avec d'autres joueurs ou d'autres iles.
 * La triche est évidemment interdite, cf actions interdites.
@@ -164,10 +175,11 @@ Cette liste n'est pas exhaustive.
 * Interdiction d'utiliser quelconques commandes de téléportation (/back, /tpa, /tpahere...) pour aller ou retourner sur un lieu de combat
 * Il est interdit d'utiliser son fruit du démon hors zone pvp, pour tuer d'autres joueurs.
 
-### <mark style="color:orange;">Article D : Utilisation de la Redstone</mark>
+### <mark style="color:orange;">Article E : Utilisation de la Redstone</mark>
 
-* Les clocks redstone sans intervalle de tick ou volantes qui laissent apparaître cet intervalle visuellement, sont interdites.
+* Les clocks redstone sans intervalle de tick qui laissent apparaître cet intervalle visuellement, sont interdites.
 * Les systèmes redstone amenant à du 0-tick, en tout genre, sont interdits.
+* Les machines volantes sont interdites.
 * Les machines créant du lag, volontairement ou non, sont interdites.
 * Il est interdit de farmer à l’aide d’un véhicule ou dans un véhicule (wagons, bateaux, etc.).
 * Les clocks trop rapides ou les systèmes conséquents et mal optimisés sont interdits.
@@ -187,7 +199,7 @@ Des sanctions peuvent être appliquées si ces règles ne sont pas respectées. 
 – Suppression de farm
 {% endhint %}
 
-### <mark style="color:orange;">Article E : Les Mods autorisés</mark>
+### <mark style="color:orange;">Article F : Les Mods autorisés</mark>
 
 * Tous les mods ne donnant pas d'avantages sur les autres joueurs tels que :
   * Optifine, Minimap, ReplayMod (Uniquement pour Record)
@@ -196,9 +208,11 @@ Des sanctions peuvent être appliquées si ces règles ne sont pas respectées. 
   * Schematica (Sans le mode printer) / Litematica
   * Toggle Sneak/Sprint
 
-Si un mod n'apparaît pas dans cette liste, demandez l'accord d'un Staff.
+{% hint style="warning" %}
+Si un mod n'apparaît pas dans cette liste, demandez l'accord d'un Staff en ticket.
+{% endhint %}
 
-### <mark style="color:orange;">Article F : Les Mods interdits</mark>
+### <mark style="color:orange;">Article G : Les Mods interdits</mark>
 
 * **Tous les mods donnant un avantage sur les autres joueurs :**
   * X-Ray / FreeCam
@@ -211,7 +225,7 @@ Si un mod n'apparaît pas dans cette liste, demandez l'accord d'un Staff.
 Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un mod, merci de créer un ticket.
 {% endhint %}
 
-### <mark style="color:orange;">Article G : Création et partage de mods</mark>
+### <mark style="color:orange;">Article H : Création et partage de mods</mark>
 
 Tous les mods créés pour **Minepiece** (tels que les mods _QoL_, etc.) doivent respecter des règles spécifiques afin d’être autorisés lorsqu’ils sont partagés.
 
@@ -242,7 +256,7 @@ En cas de doute quant à la conformité de votre mod avec ces règles, n’hési
 
 
 
-### <mark style="color:orange;">Article H : Les Doubles-Comptes</mark>
+### <mark style="color:orange;">Article I : Les Doubles-Comptes</mark>
 
 * Les doubles-comptes sont limités à 1 par utilisateur.
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus, ainsi que dans le vote.
@@ -255,31 +269,30 @@ En cas de doute quant à la conformité de votre mod avec ces règles, n’hési
 Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de MinePiece en ticket.
 {% endhint %}
 
-### <mark style="color:orange;">Article I : L'AFK</mark>
+### <mark style="color:orange;">Article J : L'AFK</mark>
 
 * **Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.**
 * Il est aussi interdit de contourner l'anti-AFK de quelconque manière, sous peine de sanctions.
 * Le farming/afk à l’aide de véhicules (bateaux, minecart, etc.) est interdit.
 
-### <mark style="color:orange;">Article J : Triche et Usebugs</mark>
+### <mark style="color:orange;">Article K : Triche et Usebugs</mark>
 
 * Les usebugs, la duplication (ainsi que la tentative de duplication) et la triche sous toutes ses formes sont prohibés sur le serveur.
   * Est compris dans usebugs le fait d'abuser de choses dans le but d'augmenter ses stats, contourner les limites quelconques etc...
 * Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
 * **De plus, l'utilisation d'une touche autre que le clic, d'un moyen, d’une méthode ou d’un poids permettant de le bloquer pour casser et/ou poser des blocs, et utiliser des items, est totalement interdite.**
 * Etre en connaissance d’un bug majeur sur le serveur et ne pas en informer la modération dans le but d’abuser de celui-ci entrainera un bannissement définitif du serveur.
-* Le poser-casser est interdit.
 
 ## <mark style="color:orange;">Partie III : Le Chat</mark>
 
 ### <mark style="color:orange;">Article A : Les règles générales</mark>
 
-* Le chat est un espace de libre échange où les discussions s'effectuent dans le respect.
+* Le chat est un espace de libre échange où les discussions s'effectuent dans le respect et avec de la courtoisie.
 * Toute forme d'harcèlement est interdite et entraînera de très lourdes sanctions.
 
 ### <mark style="color:orange;">Article B : Les types de messages</mark>
 
-Voici une liste non exhaustive des messages inappropriés sur le serveur :
+Voici une liste non exhaustive des messages inappropriés sur le serveur, qui pourront entraîner, à l'appréciation du staff, des sanctions :
 
 * Provocation, insultes envers une personne ou une communauté.
 * Propos graves : racisme, misogynie, homophobie, transphobie, politique.
@@ -314,8 +327,12 @@ Voici une liste non exhaustive des messages inappropriés sur le serveur :
 * Vous ne devez pas citer de noms de serveurs autres que ceux de Rivrs.
 * Toute publicité pour une autre plateforme/jeu/etc est également interdite sur le serveur.
 * La publicité de son propre contenu (vidéos Youtube, chaine Twitch, etc) est interdite sur le serveur, hormis si vous disposez du grade Youtubeur, Streameur ou Partenaire.
-* Pour la publicité du jeu (pw, shops, vente, events,...) vous devez patienter **10** minutes entre chaque message.
-* Une publicité, une annonce ou même une demande se doit d’être espacée de **10** minutes par rapport à ses précédentes pour chaque île ou même pwarp.
+
+***
+
+* Pour la publicité en jeu `/pub` (warps, shops, ventes, events, etc.), vous devez obligatoirement utiliser la commande adéquate en fonction du type de recherche.&#x20;
+* De même, si vous faites de la pub pour votre ile, merci de respecter le temps de 10 minutes par ile/warp.
+* Merci de ne pas utiliser différents types de `/pub` pour bypass la durée de cooldown.
 
 ### <mark style="color:orange;">Article E : Staff non présent</mark>
 
@@ -323,15 +340,11 @@ Voici une liste non exhaustive des messages inappropriés sur le serveur :
 * Le screen doit être complet, date, heure, contexte, etc...
 * Tout abus de signalements ou de preuves falsifiées entrainera des sanctions.
 
-### <mark style="color:orange;">Article F : La boutique</mark>
 
-* Tous les achats effectués sur la boutique sont considérés comme définitifs et ne peuvent donner lieu à aucun remboursement, sauf exception prévue expressément dans nos Conditions Générales de Vente (CGV)
-* Conformément à l’article L221-28 du Code de la Consommation, vous reconnaissez et acceptez de renoncer à votre droit de rétractation dès la validation de votre commande, la prestation de service étant exécutée immédiatement.
-* Tout litige, contestation de paiement ou rétrofacturation (“chargeback”) entraînera automatiquement un bannissement définitif du ou des comptes concernés, sans possibilité de recours.
 
 En vous connectant sur nos plateformes, nous considérons que vous avez lu et accepté ledit règlement, même en cas de changement de celui-ci.
 
-Toute sanction sera donnée à l'entière appréciation du staff.
+**Toute sanction sera donnée à l'entière appréciation du staff.**
 
 Si vous souhaitez contester une quelconque sanction, merci de créer un ticket sur le discord. Toute contestation de sanction non recevable entraînera le doublement de celle-ci.\
 Créer un ticket pour contester la sanction d’une autre personne **ne sera pas prise en compte**.
