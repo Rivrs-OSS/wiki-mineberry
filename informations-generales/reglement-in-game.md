@@ -323,7 +323,11 @@ Voici une liste non exhaustive des messages inappropriés sur le serveur :
 * Le screen doit être complet, date, heure, contexte, etc...
 * Tout abus de signalements ou de preuves falsifiées entrainera des sanctions.
 
+### <mark style="color:orange;">Article F : La boutique</mark>
 
+* Tous les achats effectués sur la boutique sont considérés comme définitifs et ne peuvent donner lieu à aucun remboursement, sauf exception prévue expressément dans nos Conditions Générales de Vente (CGV)
+* Conformément à l’article L221-28 du Code de la Consommation, vous reconnaissez et acceptez de renoncer à votre droit de rétractation dès la validation de votre commande, la prestation de service étant exécutée immédiatement.
+* Tout litige, contestation de paiement ou rétrofacturation (“chargeback”) entraînera automatiquement un bannissement définitif du ou des comptes concernés, sans possibilité de recours.
 
 En vous connectant sur nos plateformes, nous considérons que vous avez lu et accepté ledit règlement, même en cas de changement de celui-ci.
 
