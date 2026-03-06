@@ -60,6 +60,7 @@ Pensez à régulièrement prendre en vidéo/photo votre inventaire/île/argent.
 ### <mark style="color:orange;">Article A : Interactions entre joueurs</mark>
 
 * Les interactions entre les joueurs doivent être effectuées de manière respectueuse et bienveillante.
+* Il est interdit d'utiliser quelconques fonctionnalités du serveur (fruits du démon, pets, ...) afin de déranger les autres joueurs, d'anti-jeu ou de concurrence déloyale.
 * Les arnaques, les pillages, les vols, les griefs, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
   * Il est inclus dans les arnaques : le fait de tromper un joueur dans une vente d'item quelconque.&#x20;
     * Par exemple, il est interdit de vendre deux clés au prix lambdas, et une milieu une beaucoup plus chère.
@@ -261,9 +262,10 @@ En cas de doute quant à la conformité de votre mod avec ces règles, n’hési
 * Les doubles-comptes sont limités à 1 par utilisateur.
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus, ainsi que dans le vote.
 * Il n’est pas possible de récupérer les différentes récompenses des évents grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, récompenses de jobs…).
-* L’utilisation d’un double compte est dans l’unique but de recommencer une partie ou pour AFK, mais il est interdit de boost son compte principal (Items / Argent / autres).
 * Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé et plus si récidives.
 * Il est interdit de voter avec deux comptes différents pour le serveur.
+* L’utilisation d’un double compte est dans l’unique but de recommencer une partie ou pour AFK, mais il est interdit de boost son compte principal (Items / Argent / autres).
+  * Si vous souhaitez recommencer votre partie, merci de faire un ticket afin que les démarches adéquates soient respectées.
 
 {% hint style="info" %}
 Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de MinePiece en ticket.
