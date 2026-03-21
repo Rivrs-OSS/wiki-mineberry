@@ -114,7 +114,7 @@ Cette liste n'est pas exhaustive.
 
 ### <mark style="color:orange;">Article C : Les Alliances d'îles</mark>
 
-Toute forme d’alliance entre îles est strictement interdite dès lors qu’elle a pour objectif ou pour effet d’obtenir un avantage dans les classements.
+Toute forme d’alliance entre îles est strictement interdite dès lors qu’elle a pour objectif ou pour effet d’obtenir un avantage dans les différents classements.
 
 Cela inclut notamment, sans s’y limiter :
 
