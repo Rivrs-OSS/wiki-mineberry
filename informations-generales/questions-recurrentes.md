@@ -137,6 +137,20 @@ En cas de mort, votre total d’ombres est réduit de moitié.
 
 ***
 
+### <mark style="color:orange;">Drum – Valerianes</mark>
+
+**"**<mark style="color:yellow;">**Comment fonctionnent les Paliers de Valerianes ?**</mark>**"**
+
+* Sur <mark style="color:yellow;">**Drum**</mark>, chaque feuille des cerisiers de l'île cassée rapporte 6% de chance au joueur d'obtenir des <mark style="color:yellow;">**Valerianes**</mark>.
+* Ces fleurs permettent de franchir des <mark style="color:yellow;">**paliers**</mark> visibles sur le /drum.
+* Chaque palier vous octroie des statistiques permanentes, valables partout.
+
+{% hint style="danger" %}
+En cas de mort, votre total de Valerianes est réduit de moitié.
+{% endhint %}
+
+
+
 ### <mark style="color:orange;">Pêche</mark>
 
 **"**<mark style="color:yellow;">**Où pêcher les poissons customs ?**</mark>**"**

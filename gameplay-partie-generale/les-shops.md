@@ -14,8 +14,6 @@ Le <mark style="color:yellow;">**`/shop`**</mark> est un menu central pour achet
 
 Il est accessible à tout moment via la commande : <mark style="color:yellow;">**`/shop`**</mark>&#x20;
 
-&#x20;\
-\
 Vous disposez également de la commande <mark style="color:yellow;">**`/quickshop`**</mark> pour accéder à la vente rapide.
 
 ### <mark style="color:orange;">Catégories disponibles :</mark>&#x20;

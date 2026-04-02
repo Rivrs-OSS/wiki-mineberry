@@ -16,7 +16,7 @@ En cumulant vos votes, vous progressez dans un système de <mark style="color:ye
 
 ## <mark style="color:orange;">Vote Party</mark>
 
-Chaque <mark style="color:yellow;">**palier communautaire de votes**</mark> débloque une récompense pour tous les participants connectés : <mark style="color:yellow;">**5,000 Berrys**</mark> + <mark style="color:yellow;">**2 Clé de vote**</mark>
+Chaque <mark style="color:yellow;">**palier communautaire de 1250 votes**</mark> débloque une récompense pour tous les participants connectés : <mark style="color:yellow;">**1 Clé aléatoire**</mark> + <mark style="color:yellow;">**1 Bonbon aléatoire**</mark>
 
 ## <mark style="color:orange;">Palier récurrent individuel</mark>
 

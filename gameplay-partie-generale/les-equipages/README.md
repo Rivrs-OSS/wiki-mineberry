@@ -124,6 +124,8 @@ Maintenant que vous savez tout sur le <mark style="color:yellow;">**menu d'île*
 
 Voici les commandes à connaitre en tant que <mark style="color:yellow;">**Membre**</mark> d'une île :&#x20;
 
+* <mark
+style=color:yellow;">**`/is`**</mark> - Commande pour ouvrir le menu de l'île
 * <mark style="color:yellow;">**`/is go`**</mark> - Commande pour se téléporter sur son île
 * <mark style="color:yellow;">**`/prestige`**</mark> - Commande pour ouvrir le menu des améliorations d'île
 * <mark style="color:yellow;">**`/is team {Pseudo}`**</mark> - Commande pour voir les membres de son île ou de celle d'un joueur
@@ -156,7 +158,7 @@ Voici les commandes à connaitre en tant que <mark style="color:yellow;">**Chef/
 * <mark style="color:yellow;">**`/is renamerole [Rôles] [Nouveau Nom]`**</mark> - Commande pour changer le nom de ses rôles
 
 {% hint style="danger" %}
-Mettre des caractères spéciaux dans le nom d'une île peut causer des soucis allant jusqu'à la perte de cette dernière
+Mettre des caractères spéciaux dans le nom d'une île peut causer des problèmes allant jusqu'à la perte de cette dernière
 {% endhint %}
 
 * <mark style="color:yellow;">**`/is unban [Pseudo]`**</mark> - Commande pour débannir un joueur de son île

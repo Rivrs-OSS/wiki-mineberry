@@ -4,7 +4,7 @@ description: Retrouvez ici toutes les informations concernant la pêche
 
 # 🎣 La Pêche
 
-Sur <mark style="color:yellow;">**MineBerry**</mark>, la <mark style="color:yellow;">**pêche**</mark> est une <mark style="color:yellow;">**expérience unique**</mark>. En plus des <mark style="color:yellow;">**poissons de base**</mark>, vous aurez la possibilité de pêcher des <mark style="color:yellow;">**espèces exclusives**</mark>.
+Sur <mark style="color:yellow;">**MinePiece**</mark>, la <mark style="color:yellow;">**pêche**</mark> est une <mark style="color:yellow;">**expérience unique**</mark>. En plus des <mark style="color:yellow;">**poissons de base**</mark>, vous aurez la possibilité de pêcher des <mark style="color:yellow;">**espèces exclusives**</mark>.
 
 Ces <mark style="color:yellow;">**Poissons**</mark> sont classés selon <mark style="color:yellow;">**différentes raretés**</mark>, suivant l'ordre :
 

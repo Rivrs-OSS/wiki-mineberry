@@ -1,5 +1,5 @@
 ---
-description: Retrouvez ici toutes les informations concernant le règlement de MineBerry
+description: Retrouvez ici toutes les informations concernant le règlement de MinePiece
 ---
 
 # ⚖️ Retrouver le règlement
